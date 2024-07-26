@@ -1,0 +1,19 @@
+.red{
+	background-color: black;
+	
+	
+}
+
+.blue{
+
+	background-color: black;
+}
+
+#alan{
+	height: 10%;
+	width: 30%;
+	border-radius: 100px;
+	border-style: solid;
+	border-color: black;
+	border-width: 3px;
+}
